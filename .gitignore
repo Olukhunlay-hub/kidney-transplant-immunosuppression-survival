@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+*.csv
+*.xlsx
+*.xls
+*.dta
+*.sav
+*.parquet
+outputs/
+data/
+.ipynb_checkpoints/
